@@ -11,16 +11,16 @@ global.botnumber = "994406837340"
 global.confirmCode = ""
 
 global.owner = [
-  ['201005603546', '👑 Mystic - Creador 👑', true],
-  ['201005603546', '💫 Mystic - Collaborator 2 💫', true],
-  ['201005603546', '💫 Mystic - Collaborator 3 💫', true],
-  ['201005603546', '💫 Mystic - Collaborator 4 💫', true],
-  ['201005603546', '💫 Mystic - Collaborator 5 💫', true],
-  ['201005603546', '💫 Mystic - Collaborator 6 💫', true],
-  ['201005603546', '💫 Mystic - Rey Endymion 💫', false],
-  ['201005603546', '💫 Mystic - Collaborator 8 💫', true],
-  ['201005603546', '💫 Mystic - By Alba070503 💫', true],
-  ['201005603546','💫 Mystic - Tester Fabri115💫', true],
+  ['201005603546', '♕𝙎𝙃𝙄𝙆𝘼🐥ᵇᵒᵗ♕', true],
+  ['201005603546', '♕𝙎𝙃𝙄𝙆𝘼🐥ᵇᵒᵗ♕', true],
+  ['201005603546', '♕𝙎𝙃𝙄𝙆𝘼🐥ᵇᵒᵗ♕', true],
+  ['201005603546', '♕𝙎𝙃𝙄𝙆𝘼🐥ᵇᵒᵗ♕', true],
+  ['201005603546', '♕𝙎𝙃𝙄𝙆𝘼🐥ᵇᵒᵗ♕', true],
+  ['201005603546', '♕𝙎𝙃𝙄𝙆𝘼🐥ᵇᵒᵗ♕', true],
+  ['201005603546', '♕𝙎𝙃𝙄𝙆𝘼🐥ᵇᵒᵗ♕', false],
+  ['201005603546', '♕𝙎𝙃𝙄𝙆𝘼🐥ᵇᵒᵗ♕', true],
+  ['201005603546', '♕𝙎𝙃𝙄𝙆𝘼🐥ᵇᵒᵗ♕', true],
+  ['201005603546','♕𝙎𝙃𝙄𝙆𝘼🐥ᵇᵒᵗ♕', true],
   ['201005603546'],
   ['201005603546'],
   ['201005603546'],
@@ -40,11 +40,11 @@ global.suittag = ['201005603546'];
 global.prems = ['201005603546'];
 
 global.packname = 'Sticker';
-global.author = 'The Mystic - Bot';
-global.wm = 'The Mystic - Bot';
-global.titulowm = 'The Mystic - Bot';
-global.titulowm2 = `The Mystic - Bot`
-global.igfg = 'The Mystic - Bot';
+global.author = '♕𝙎𝙃𝙄𝙆𝘼🐥ᵇᵒᵗ♕';
+global.wm = '♕𝙎𝙃𝙄𝙆𝘼🐥ᵇᵒᵗ♕';
+global.titulowm = '♕𝙎𝙃𝙄𝙆𝘼🐥ᵇᵒᵗ♕';
+global.titulowm2 = `♕𝙎𝙃𝙄𝙆𝘼🐥ᵇᵒᵗ♕`
+global.igfg = '♕𝙎𝙃𝙄𝙆𝘼🐥ᵇᵒᵗ♕';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
